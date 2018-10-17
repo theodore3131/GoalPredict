@@ -1,0 +1,65 @@
+121	Attempt尝试射门
+122	Corner角球
+123	Foul犯规
+124	Yellow card黄牌
+125	Second yellow card第二张黄牌
+126	Red card红牌
+127	Substitution替补
+128	Free kick won任意球破门
+129	Offside出界
+130	Hand ball手球
+131	Penalty conceded点球
+132	Key Pass关键传球
+133	Failed through ball直塞球失误
+134	Sending off下场
+135	Own goal乌龙球
+201	主场
+202	客场
+301	有点高了
+302	被封挡
+303	左下死角
+304	右下死角
+305	球门中路
+306	又高又远
+307	击中横梁
+308	偏出左边
+309	偏出右边
+310	太高了
+311	球门中上方
+312	左上死角
+313	右上死角
+401	射正(射门结果)
+402	射偏(射门结果)
+403	被扑出(射门结果)
+404	击中横梁(射门结果)
+501	攻方半场
+502	守方半场
+503	Centre of the box禁区中央
+504	Left wing左翼
+505	Right wing右翼
+506	长距离小角度
+507	左边小角度
+508	右边小角度
+509	Left side of the box禁区左侧
+510	Left side of the six yard box小禁区左侧
+511	Right side of the box禁区右侧
+512	Right side of the six yard box小禁区右侧
+513	非常近距离
+514	Penalty spot点球点
+515	禁区外
+516	远距离
+517	35码开外
+518	40码开外
+519	Not recorded
+601	right foot(射门部位)
+602	left foot(射门部位)
+603	head(射门部位)
+700	None(助攻方式)
+701	Pass传球(助攻方式)
+702	Cross传中(助攻方式)
+703	Headed pass头球摆渡(助攻方式)
+704	Through ball直塞(助攻方式)
+801	Open play运动战(情景)
+802	Set piece定位球或界外球(情景)
+803	Corner角球(情景)
+804	Free kick任意球(情景)
